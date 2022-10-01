@@ -3,6 +3,7 @@ import Head from "next/head";
 export default function Home() {
   return (
     <div className="">
+      {/* yolo */}
       <Head>
         <title>Help Centre | Project Groceries</title>
         <link rel="icon" href="/favicon.svg" />
